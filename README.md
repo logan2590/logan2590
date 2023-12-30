@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logan venkatesulu
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...angular.dot not core,cloud
+- 🌱 I’m currently learning ...reactjs, .dot core api,cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...8015630575
 
